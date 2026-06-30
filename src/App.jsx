@@ -278,6 +278,7 @@ const App = () => {
                 </div>
                 <div>
                   <button>ben</button>
+                  <button>ben2</button>
                 </div>
                 <div>
                   <div className="mb-2 block">
