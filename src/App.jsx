@@ -274,6 +274,7 @@ const App = () => {
                 <div>
                   <button>ben</button>
                   <button>ben2</button>
+                  <button>ben3</button>  
                   <button>hello meow </button>
                 </div>
                 <div>
